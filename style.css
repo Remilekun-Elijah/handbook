@@ -1,0 +1,29 @@
+h3 {
+ font-style: italic;
+}
+
+a {
+ text-decoration: none;
+ color: blue;
+}
+
+li {
+ list-style: none;
+}
+
+.logo {
+ font-size: 25px;
+}
+
+.red {
+ color: red
+}
+
+.flex-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+ }
+ 
